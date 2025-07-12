@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\BankDataAccess\bin\Debug\BankDataAccess.dll
+C:\Users\Lenovo\source\repos\BankDataAccess\bin\Debug\BankDataAccess.pdb
+C:\Users\Lenovo\source\repos\BankDataAccess\obj\Debug\BankDataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BankDataAccess\obj\Debug\BankDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BankDataAccess\obj\Debug\BankDataAccess.dll
+C:\Users\Lenovo\source\repos\BankDataAccess\obj\Debug\BankDataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\BankBussnis\bin\Debug\BankBussnis.dll
+C:\Users\Lenovo\source\repos\BankBussnis\bin\Debug\BankBussnis.pdb
+C:\Users\Lenovo\source\repos\BankBussnis\obj\Debug\BankBussnis.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BankBussnis\obj\Debug\BankBussnis.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BankBussnis\obj\Debug\BankBussnis.dll
+C:\Users\Lenovo\source\repos\BankBussnis\obj\Debug\BankBussnis.pdb
+C:\Users\Lenovo\source\repos\BankBussnis\bin\Debug\BankDataAccess.dll
+C:\Users\Lenovo\source\repos\BankBussnis\bin\Debug\BankDataAccess.pdb
+C:\Users\Lenovo\source\repos\BankBussnis\obj\Debug\BankBuss.05792FBA.Up2Date
